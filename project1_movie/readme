@@ -1,0 +1,5 @@
+Project1
+Movie Website Generator using fresh_tomatoes.py template
+fresh_tomatoes.html is generated based on input from entertainment_center.py file
+Display Movie Poster, Director, Writer, Starring
+Click on the poster opens up a youtube trailer of the movie
